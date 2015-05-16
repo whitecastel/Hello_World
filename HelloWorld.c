@@ -6,4 +6,6 @@ void main()
 	//printf("my number is 1122\n");i
 	printf("this ia a patch\n");
 	printf("rm something\n");
+	printf("fix bug 002\n");
+
 }
