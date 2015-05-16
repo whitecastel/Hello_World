@@ -5,4 +5,5 @@ void main()
 	printf("my name is hehui_zou\n");
 	//printf("my number is 1122\n");i
 	printf("this ia a patch\n");
+	printf("rm something\n");
 }
