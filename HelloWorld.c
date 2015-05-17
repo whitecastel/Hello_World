@@ -7,4 +7,6 @@ void main()
 	printf("this ia a patch\n");
 	printf("rm something\n");
 	printf("fix bug 001\n");
+	printf("fix bug 002\n");
+
 }
