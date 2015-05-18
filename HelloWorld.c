@@ -9,4 +9,6 @@ void main()
 	printf("fix bug 001\n");
 	printf("fix bug 002\n");
 	printf("fix bug 003\n");
+	printf("fix bug 004\n");
+	printf("fix bug 005\n");
 }
